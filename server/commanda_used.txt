@@ -1,0 +1,3 @@
+//Dev Phase
+sudo docker build -f Dockerfile.dev -t complex/multi_server:latest .
+sudo docker run complex/multi_server:latest
